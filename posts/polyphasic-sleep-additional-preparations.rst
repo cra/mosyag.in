@@ -7,13 +7,13 @@
 .. description: 
 .. type: text
 
-Adaptation to a polyphaisc schedule is a challenge (some people known to take it just for the sake of it). Basically, you're trying to mess up with one of the basic human functions -- sleep, and your body would try to stop you. On a naps+core schedule, naps are mainly REM-phases. Therefore, they clear the head and provide mental refresh, not physical recovery. If one requires physical recovery, for example, due to regular exercise, it is usually benefitial to get as much SWS as one can[#]_.
+Adaptation to a polyphaisc schedule is a challenge (some people known to take it just for the sake of it). Basically, you're trying to mess up with one of the basic human functions -- sleep, and your body would try to stop you. On a naps+core schedule, naps are mainly REM-phases. Therefore, they clear the head and provide mental refresh, not physical recovery. If one requires physical recovery, for example, due to regular exercise, it is usually benefitial to get as much SWS as one can [#]_.
 
 Anyway, coreless schedule or not, one ends with a lot of awkwardly-placed time periods. Depending on a schedule, it's either a few hours of lonely silence at night, or a couple of hours in early morning. If you don't have anything to do, you get bored and might end up sleeping because that's what people do when bored. While having additional naps is not that much of an issue once adapted, it might screw up the transition period. It is a good idea to create a few documents (lists and other types of memos) to either 1) remind yourself why you're doing it 2) give you an idea what you can do *right now* (that is not sleeping).
 
 Basically, here's an (incomplete) list of things one should have on hand during adaptation:
 
-* The Big Fat List[#]_. Basically, a huge todo-list of things to do, just a mind dump of every possible thing you want to do, as tangible as possible. It's better to have multiple "
+* The Big Fat List [#]_. Basically, a huge todo-list of things to do, just a mind dump of every possible thing you want to do, as tangible as possible. It's better to have multiple "
 
 * Backup todo list. This is a list of things you should consider doing if you're super tired. The idea is that since the big fat list is, well, Big, you might get frustrated if you look at it during acute sleep-deprivation.
 
